@@ -6,8 +6,7 @@ author_profile: true
 comments: true
 ---
 
-Developers need to know what works and how to use it. We need less math and more tutorials with working code.
-
+In Machine Learning, we need less math and more tutorials with working code.
 
 
 <ul>
