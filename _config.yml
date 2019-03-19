@@ -11,16 +11,16 @@ title                    : "Akira Takezawa"
 title_separator          : "-"
 name                     : "Akira Takezawa"
 description              : "Powered by Jekyll and minimal-mistakes theme"
-url                      : #"https://zengliX.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # "zengliX/zengliX.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+url                      : 
+baseurl                  : 
+repository               : 
+teaser                   : 
+# breadcrumbs            : 
 words_per_minute         : 200
 comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : #"zengliX" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : 
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "akira-takezawa-26aa4916a/"
+  linkedin         : # "akira-takezawa-26aa4916a/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
