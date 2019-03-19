@@ -1,7 +1,7 @@
 
 main:
   - title: "About"
-    url: https://www.linkedin.com/in/akira-takezawa-26aa4916a/
+    url: /About/
   - title: "CV"
     url: /cv/RESUME.pdf
   - title: "Projects"
