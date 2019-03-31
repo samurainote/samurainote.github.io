@@ -1,5 +1,5 @@
 ---
-title:  "Understanding Tensorflow: Regression and Classification"
+title:  "Understanding Core Philosophy of Tensorflow "
 date:   2019-2-6
 layout: single
 author_profile: true
