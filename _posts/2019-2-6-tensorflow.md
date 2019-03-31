@@ -7,7 +7,7 @@ comments: true
 tags:
 ---
 
-![keras](/pics/TensorFlow/tensorflow.png)
+![keras](/pics/Tensorflow/tensorflow.png)
 
 **Why do you need to read this?**
 
@@ -18,7 +18,7 @@ For instance, Speech Recognition, Natural Language Processing (translation), Goo
 **Contents**
 
 1. [What is TensorFlow?](#SC)
-2. [Pros of TensorFlow](#DS)
+2. [Pros and Cons of TensorFlow](#DS)
 3. [WorkFlow of TensorFlow](#VO)
 
 ## <a name="SC" ></a>1. What is TensorFlow?
@@ -35,9 +35,9 @@ What is TensorFlow?
   - Best suited for Machine Learning and Deep Learning
   - Or any other HPC (High Performance Computing) applications
 
-![flow](/pics/keras/flow.png)
+![flow](/pics/Tensorflow/flow.png)
 
-## <a name="DS"></a>2. Pros of TensorFlow
+## <a name="DS"></a>2. Pros and Cons of TensorFlow
 
 - Pros
   1. TensorFlow can meet the needs of systems capable of constructing and training neural networks.
