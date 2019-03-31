@@ -35,7 +35,7 @@ What is TensorFlow?
   - Best suited for Machine Learning and Deep Learning
   - Or any other HPC (High Performance Computing) applications
 
-![flow](/pics/Tensorflow/flow.png)
+![flow](/pics/Tensorflow/flow.jpg)
 
 ## <a name="DS"></a>2. Pros and Cons of TensorFlow
 
