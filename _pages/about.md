@@ -8,33 +8,21 @@ author_profile: true
 
 ## Introduction:
 
-I am Akira who is 25 y.o., male from Japan.   
-Associates Data Scientist with profound, insightful and result driven Data Science Associates with sharp analytics skills and experience in E-commerce and Matching platform business domein.   
-Excels in Data Diagnosis from Business Contexts.  
-    
-Highly motivated self-taught Machine Learning Engineer, with over [20 personal implementations](https://github.com/samurainote/portfolio) of developping ML/DL model.   
-Present area of research/development is Natural Language Processing.  
-Also almuni of Machine Learning bootcamp 2018 winter batch from Byte Academy in NY.   
-  
-竹澤 輝, 25歳, スタートアップ界隈で生きてます.  
-ビジネスの文脈に沿って洞察に満ちたデータ分析を強みとする, 駆け出しのデータサイエンティスト.   
-過去2年間のキャリアでは, Eコマースおよびマッチングプラットフォームビジネスの分野でデータマイニングやビジネスアナリティクスを経験.   
-問題解決の勘所をスピーディーに捉えるスキルを備え, また英語と日本語の両方でチームと円滑なコミュニケーションをとることができる.    
-    
-また, 機械学習/ディープラーニングのモデルを応用したビジネスタスクを, [20プロジェクト](https://github.com/samurainote/portfolio)以上実装してきたセルフラーナー.   
-特に現在注力して学んでいる分野は自然言語処理. ニューヨークのByte Academyの "Machine Learning bootcamp 2019 winter batch" に参加中.    
-2019/04/26に日本へ帰国予定. 現在は実務で機械学習の実装に一人の技術者として携われる次のキャリアを探しています.   
-    
-
-## Education:
-- Alumni of Machine Learning Bootcamp, Byte Academy in NY (2019/01-2019/04)
-- Bachelor of Economics, Hokkaido University (2012/04-2017/03) *1年休学
-
+I am Akira Takezawa, 26 y.o., was born in Japan.
+Currently working as a Data Analyst at one of the biggest real estate search engine web service "HOME'S" in Japan.
 
 ## Softwares:
-- Platforms: MacOS Mojave version 10.14.3 
-- Language: Core Python, R, HTML5, CSS3 
-- Libraries: Tensorflow, Keras, OpenCV, Chainer, Scikit-learn, Genism, NLTK, Scipy, Numpy, Seaborn 
-- Databases: MySQL, PostgreSQL 
+- Platforms: MacOS Catalina 10.15.2  
+- Language: Python, R, Stan, SQL, Google App Script(Javascript) 
+- Libraries: bsts, KFAS, StatsModels, CausalImpact, Prophet, Scikit-learn, Keras, Tensorflow
+- Tools: Plotly, Tableau, BigQuery, Hadoop, Github, Docker, JIRA, Google Analytics 
 
+## Work Experience:
+- Data Analyst, LIFULL (2019/06-today)
+- Bussines Analyst, Xvolve (2018/07-2018/12) 
+- Data Analyst, Cospa Creation (2017/04-2018/06) 
+
+## Education:
+- Alumni of Machine Learning Bootcamp, Byte Academy in NY (2018/12-2019/04)
+- Bachelor of Economics(Econometrics and Statistics), Hokkaido University (2012/04-2017/03) 
 
