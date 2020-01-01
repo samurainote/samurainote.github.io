@@ -8,8 +8,9 @@ author_profile: true
 
 ## Introduction:
 
-I am Akira Takezawa, 26 y.o., was born in Japan.    
-Currently working as a Data Analyst at one of the biggest real estate search engine web service "HOME'S" in Japan.
+I am Akira Takezawa, 26 y.o., was born in Japan.  
+
+Currently working as a Data Analyst at one of the biggest real estate search engine web service [HOME'S](https://www.homes.co.jp/) in Japan.
 
 ## Softwares:
 - Platforms: MacOS Catalina 10.15.2  
