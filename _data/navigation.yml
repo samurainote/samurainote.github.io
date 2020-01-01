@@ -4,9 +4,11 @@ main:
     url: /About/
   - title: "CV"
     url: /cv/RESUME.pdf
+  - title: "Publications"
+    url: /Publication/
   - title: "Projects"
     url: https://github.com/samurainote/portfolio
   - title: "Medium"
-    url: https://medium.com/shortcutnlp
+    url: https://towardsdatascience.com/how-to-implement-seq2seq-lstm-model-in-keras-shortcutnlp-6f355f3e5639
   - title: "Blogs"
     url: /Blogs/
