@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Akira Takezawa"
+title                    : "akiratakezawa.com"
 title_separator          : "-"
-name                     : "Akira Takezawa"
+name                     : "akiratakezawa.com"
 description              : "Powered by Jekyll and minimal-mistakes theme"
 url                      : 
 baseurl                  : 
