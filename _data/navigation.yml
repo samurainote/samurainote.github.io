@@ -6,7 +6,7 @@ main:
     url: /cv/RESUME.pdf
   - title: "Publications"
     url: /Publication/
-  - title: "Projects"
+  - title: "Github"
     url: https://github.com/samurainote/portfolio
   - title: "Medium"
     url: https://towardsdatascience.com/how-to-implement-seq2seq-lstm-model-in-keras-shortcutnlp-6f355f3e5639
