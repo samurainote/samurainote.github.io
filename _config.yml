@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Akira Takezawa"
-  avatar           : https://media.licdn.com/dms/image/C5103AQECcEY8ckNg8A/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=wpbWyK7ZR-jciwQsY3DWdFC6pCpTQqWbYGZR06hRrZ8
-  bio              : "Data Scientist Fellow at NY Byte Academy"
-  location         : "Bangalore, India"
+  avatar           : https://miro.medium.com/fit/c/256/256/1*fCUqyZ8Os4Sk8ehhjS-0HQ.jpeg
+  bio              : "Lead Data Analyst @LIFULL"
+  location         : "Tokyo, Japan"
   email            : "akiratakezawa71@gmail.com"
-  uri              : "https://byteacademy.co/hiring/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
