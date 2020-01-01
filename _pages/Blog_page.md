@@ -6,8 +6,6 @@ author_profile: true
 comments: true
 ---
 
-In Machine Learning, we need less math and more tutorials with working code.
-
 
 <ul>
   {% for post in site.posts %}
