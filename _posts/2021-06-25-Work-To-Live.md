@@ -12,7 +12,7 @@ tags:
 
 # Work to Live or Live to Work
 - NEW: Nature, Eat, Snake
-- TGIF
+- TGIF: finish work earlier
 - Travel in Japan: twice per a month 
 
 <br />
