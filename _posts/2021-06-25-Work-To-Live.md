@@ -18,6 +18,22 @@ tags:
 <br />
 <br />
 
+# Zero to Minus, Zero to Plus
+## Zero to Minus
+1. Health
+2. Wealth
+3. Lonliness
+
+<br />
+
+## Zero to Plus
+1. Love
+2. Nature
+3. Food
+
+<br />
+<br />
+
 # Key Concepts
 - 「からっぽ」：君は何を保守するか
 - 記憶なき若者：保守するものがない
@@ -69,4 +85,3 @@ tags:
 1. What: Tech is fun, but Farm is better
 2. Where: in Nature or in Culture
 3. Who: Friend or Bound
-4. Who
