@@ -61,3 +61,12 @@ tags:
 
 ## D
 1. Friends and Community
+
+<br />
+<br />
+
+# Ideal Work
+1. What: Tech is fun, but Farm is better
+2. Where: in Nature or in Culture
+3. Who: Friend or Bound
+4. Who
