@@ -1,5 +1,5 @@
 ---
-title:  "12 LIFE SHIFT"
+title:  "13 LIFE SHIFT"
 date:   2021-07-13
 layout: single
 author_profile: true
@@ -10,7 +10,7 @@ tags:
 ![](https://images.unsplash.com/photo-1558522195-e1201b090344?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 > Photo by @purzlbaum on Unsplash
 
-# 12 LIFE SHIFT
+# 13 LIFE SHIFT
 1. 「ウマく生きる」から「マトモに生きる」へ：　脱社会
 3. 「外権威」から「内権威」へ：　脱社会
 6. 「社会」から「世界」へ：　脱社会
@@ -33,3 +33,11 @@ tags:
 - Stop Dating with Condition, but with Existence: it's gonna be replaceable, you don't see a human as it is
 - Stop Judging a human with your criteria: you are got caught up with your narrow idea/mind/philosophy
 - xxxxxx Atractiveness is important
+
+<br />
+<br />
+
+# Love
+"You love the concept of love but you don't love the actual people" from Feel Good
+
+
